@@ -99,22 +99,11 @@ Building an integrated research workflow with:
 
 ---
 
-## 📌 **Pinned Projects**  
-*(Link these once your repositories are published.)*
-
-- **Supply & Demand Reversal EA**  
-- **Multi-Position Stacking EA**  
-- **Quant Research Notebooks (Python)**  
-- **MQL5 Utilities / Helper Functions**  
-- **Portfolio Risk Engine Prototype**
-
----
-
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alistairmoyo&show_icons=true&theme=dark" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alistairmoyo&layout=compact&theme=dark" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Siraliv&show_icons=true&theme=dark" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siraliv&layout=compact&theme=dark" height="160px"/>
 </p>
 
 ---
